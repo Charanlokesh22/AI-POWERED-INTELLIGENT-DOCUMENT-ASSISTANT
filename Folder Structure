@@ -1,0 +1,7 @@
+document-assistant/
+│── app.py
+│── requirements.txt
+│── documents/
+│── utils/
+│     └── rag_pipeline.py
+│── README.md
